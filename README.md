@@ -1,6 +1,6 @@
-# SCTP-Capstone-Project - Diabetes
+# SCTP-Capstone-Project - Singapore Weather
 
-SCTP Capstone Project data based on Diabetes Prime Indian Database
+SCTP Capstone Project data for Singapore Weather
 
 
 
